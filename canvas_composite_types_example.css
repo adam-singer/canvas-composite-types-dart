@@ -1,0 +1,7 @@
+canvas { border: 2px solid #000; margin-bottom: 5px; }
+body { margin: 20px; font-family: arial,verdana,helvetica; background: #fff;}
+h1 { font-size: 140%; font-weight:normal; color: #036; border-bottom: 1px solid #ccc; }
+pre { float:left; display:block; background: rgb(238,238,238); border: 1px dashed #666; padding: 15px 20px; margin: 0 0 10px 0; }
+.wrapper {overflow: hidden; width: 600px;}
+.column {float: left; width: 22%; margin-right: 4%;}
+.last {margin-right: 0;}
